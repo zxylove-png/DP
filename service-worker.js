@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/firmiana/DP/precache-manifest.9863a5b896103d8e1b189a6c3ddf73e2.js"
+  "/DP/precache-manifest.fc0e0a07db0898e8d663d6f8eeb2931b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "toolkit"});
